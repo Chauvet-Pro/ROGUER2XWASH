@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.241212 - Rogue R2X Wash](https://github.com/Chauvet-Pro/ROGUER2XWASH/blob/3e2b92fce9dd6b7a7ecb71009b5254793f0fc008/firmware/V1.241212.zip)
+- No new features or performance enhancements were added. This update is for internal use only
+
 [V1.230627 - Rogue R2X Wash](https://github.com/Chauvet-Pro/ROGUER2XWASH/blob/2a786923cca34bbce15b19fdc9825eefb4bea4ae/firmware/V1.230627.zip)
 - Fixed RDM issues
 
