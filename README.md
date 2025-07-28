@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.250715 - Rogue R2X Wash](https://github.com/Chauvet-Pro/ROGUER2XWASH/blob/1e25a7559829df1a7a6df6275fcc37b7a0d2ff96/firmware/V1.250715.zip)
+-Fixed the issue with the personalities names being mislabeled
+
 [V1.241212 - Rogue R2X Wash](https://github.com/Chauvet-Pro/ROGUER2XWASH/blob/3e2b92fce9dd6b7a7ecb71009b5254793f0fc008/firmware/V1.241212.zip)
 - No new features or performance enhancements were added. This update is for internal use only
 
